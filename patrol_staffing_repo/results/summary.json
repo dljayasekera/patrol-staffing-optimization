@@ -1,0 +1,12 @@
+{
+  "records_modeled": 697,
+  "district_watch_cells": 12,
+  "baseline_staff_total": 54,
+  "optimized_staff_total": 60,
+  "baseline_shortage_total": 69.36,
+  "optimized_shortage_total": 63.36,
+  "baseline_weighted_shortage_total": 297.27,
+  "optimized_weighted_shortage_total": 270.37,
+  "shortage_reduction_pct": 8.7,
+  "weighted_shortage_reduction_pct": 9.0
+}
